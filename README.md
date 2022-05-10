@@ -1,8 +1,6 @@
 # steve_madden
 
 <p>Hi there, we have experienced our third team project in Masai School on the SeteveMadden.in website clone with backend.<br>
-GitHub frontend: https://github.com/vattsalbhatt/steve_madden_fullstack<br>
-GitHub backend: https://github.com/vattsalbhatt/steve_madden<br>
 Our Project Link: https://steve-madden-full.netlify.app/index.html<br>
 Our Video Presentation Link: https://drive.google.com/file/d/1Kggk3V89bWKnIPaVhNloBjyJozRbW9y1/view?usp=sharing<br>
 Used Tech: HTML, Bootstrap, ExpressJS, MongoDB <br>
